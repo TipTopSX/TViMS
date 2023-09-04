@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-05 События. Вероятность.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-09-05 События. Вероятность.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-09-05 События. Вероятность.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-09-05 События. Вероятность.md"
+            "file": "README.md"
           }
         }
       }
@@ -131,13 +131,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b6e44dd5d9ae45a6",
+  "active": "07f90dbf0ab507ef",
   "lastOpenFiles": [
+    "2023-09-05 События. Вероятность.md",
+    "README.md",
     "Задачи/Прохоров Ушаков Ушаков",
     "Задачи/Зубков Севастьянов Чистяков",
     "Определения/Виды событий и операции над ними.md",
-    "Определения/Событие.md",
-    "README.md",
-    "2023-09-05 События. Вероятность.md"
+    "Определения/Событие.md"
   ]
 }

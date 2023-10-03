@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42fdca1343ad319f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9be757bc0f3d8052",
             "type": "leaf",
             "state": {
@@ -37,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-03 Схема Бернулли.md",
+                "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Определения/Формула полной вероятности.md",
+                "file": "Определения/Полиномиальная схема.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5e5a865d1c6152c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Определения/Схема Бернулли.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md"
               }
             }
           }
@@ -183,13 +183,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9be757bc0f3d8052",
+  "active": "4448aee5ce9166d1",
   "lastOpenFiles": [
     "2023-09-26 Формула полной вероятности. Формула Байеса.md",
-    "2023-10-03 Схема Бернулли.md",
+    "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
+    "Определения/Полиномиальная схема.md",
+    "Определения/Схема Бернулли.md",
     "README.md",
-    "2023-09-05 События. Вероятность.md",
     "Определения/Формула полной вероятности.md",
+    "2023-09-05 События. Вероятность.md",
     "Определения/Формула Байеса.md",
     "Определения/Конечное разбиение.md",
     "Определения/Теорема умножения.md",

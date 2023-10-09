@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-26 Формула полной вероятности. Формула Байеса.md",
-                "mode": "source",
+                "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-09-26 Формула полной вероятности. Формула Байеса.md",
+            "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-09-26 Формула полной вероятности. Формула Байеса.md",
+            "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-09-26 Формула полной вероятности. Формула Байеса.md"
+            "file": "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md"
           }
         }
       }
@@ -123,19 +123,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b6e44dd5d9ae45a6",
+  "active": "07f90dbf0ab507ef",
   "lastOpenFiles": [
-    "2023-09-19 Условная вероятность. Независимые события. Теорема умножения.md",
     "README.md",
+    "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
     "2023-09-26 Формула полной вероятности. Формула Байеса.md",
+    "Определения/Полиномиальная схема.md",
+    "Определения/Схема Бернулли.md",
+    "2023-09-19 Условная вероятность. Независимые события. Теорема умножения.md",
     "Определения/Конечное разбиение.md",
     "Определения/Формула Байеса.md",
     "Определения/Формула полной вероятности.md",

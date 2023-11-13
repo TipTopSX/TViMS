@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Определения/Функция распределения.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Определения/Функция распределения.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Определения/Функция распределения.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Определения/Функция распределения.md"
+            "file": "README.md"
           }
         }
       }
@@ -133,10 +133,11 @@
   },
   "active": "07f90dbf0ab507ef",
   "lastOpenFiles": [
-    "2023-10-17 Вероятностное пространство.md",
+    "2023-10-24 Распределения, теорема Лебега.md",
     "README.md",
-    "2023-10-10 Теоремы Пуассона и Муавра-Лапласа.md",
     "Определения/Функция распределения.md",
+    "2023-10-17 Вероятностное пространство.md",
+    "2023-10-10 Теоремы Пуассона и Муавра-Лапласа.md",
     "Определения/Случайная величина.md",
     "Определения/Мера Лебега.md",
     "2023-10-03 Схема Бернулли. Биномиальное и полиномиальное распределения.md",
